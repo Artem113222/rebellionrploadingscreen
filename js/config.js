@@ -50,11 +50,11 @@ var l_background = "";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/5AUgVTVIn9E",
-	"backgrounds/images/qeiPZ8NhyVE",
-	"backgrounds/images/qxpgCvCXCrQ",
-	"backgrounds/images/XdMhZ05mhYY",
-	"backgrounds/images/Y9qsqmFkpqk"
+	"backgrounds/images/5AUgVTVIn9E.jpg",
+	"backgrounds/images/qeiPZ8NhyVE.jpg",
+	"backgrounds/images/qxpgCvCXCrQ.jpg",
+	"backgrounds/images/XdMhZ05mhYY.jpg",
+	"backgrounds/images/Y9qsqmFkpqk.jpg"
 ];
 
 /*Random background images order?*/
