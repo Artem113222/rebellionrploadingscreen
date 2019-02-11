@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "RebellionRolePlay";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -44,15 +44,17 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glimmering.webm";
+var l_background = "";
 
 /*(Image-background only)
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/5AUgVTVIn9E",
+	"backgrounds/images/qeiPZ8NhyVE",
+	"backgrounds/images/qxpgCvCXCrQ",
+	"backgrounds/images/XdMhZ05mhYY",
+	"backgrounds/images/Y9qsqmFkpqk"
 ];
 
 /*Random background images order?*/
